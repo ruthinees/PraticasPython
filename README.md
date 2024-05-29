@@ -1,4 +1,4 @@
-# ProjetosEmPython
+# ProjetosPython
 No presente repositório estão armazenadas minhas práticas em Python.
 
 Abaixo estão as explicações sobre as práticas e suas funções:
